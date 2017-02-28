@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RPS War - Rock Paper Scissors</string>
+    <string name="scrore_play">Score Play</string>
+    <string name="stage_play">Stage Play</string>
+    <string name="high_score">High Score</string>
+    <string name="instruction">Instructions</string>
+    <string name="reinforcement">Reinforcement</string>
+    <string name="share">Share</string>
+    <string name="paper_wins">Paper wraps Rock. Paper Win</string>
+    <string name="scissor_wins">Scissor cuts Paper. Scissor Win</string>
+    <string name="rock_wins">Rock smash Scissor. Rock Win</string>
+    <string name="quit">Quit</string>
+    <string name="stage_play_stage_1">Stage Play : Stage 1</string>
+    <string name="score_play_0_points">Score Play : 0 Points</string>
+    <string name="how_to_play_rpg">How to play RPS? Its very easy game. You will against bot. You both have to chose one of the three things ROCK
+    PAPER AND SCISSOR at the same time. Rock is more powerful than Scissor but less powerful than Paper. Scissor is more powerful than Paper
+    but less powerful than Rock and Paper is more powerful than Rock but less powerful than Scissor. When Play screen comes tap on PAPER SCISSOR or ROCK
+    to play the game.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_reinforcement">Reinforcement</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-9290832684719226/8478720790</string>
+    <string name="video_ad_unit_id">ca-app-pub-9290832684719226/4811427196</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+
+    <string name="interstitial_ad_unit_id">ca-app-pub-9290832684719226/7920317590</string>
+</resources>
